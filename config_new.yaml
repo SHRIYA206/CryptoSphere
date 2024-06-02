@@ -1,0 +1,81 @@
+cookie:
+  expiry_days: 30
+  key: some_signature_key
+  name: some_cookie_name
+credentials:
+  usernames:
+    aisha1:
+      email: shssj@gmail.com
+      failed_login_attempts: 0
+      logged_in: true
+      name: aisha
+      password: $2b$12$Vv0qvJy86/lWOwbieC72luDLxTBOCV.kAMnBCN5Na8vT9GlPdCUzC
+    dbaldwin:
+      email: dbaldwin@gmail.com
+      failed_login_attempts: 1
+      logged_in: false
+      name: David Baldwin
+      password: $2b$12$sBSEuNFavKdqRck4ZPaxLenSMrfySwZvehbQF1hFWDTtQwpbB8S6q
+    girl:
+      email: thinksmart12@gmail.com
+      failed_login_attempts: 1
+      logged_in: false
+      name: Shri
+      password: $2b$12$vBozlMQ7irVt9UbMJ/KbUOnWBT9xkj83T5HspSs7xO222LYCcNnnG
+    gurmindero7:
+      email: gurminder@gmail.com
+      failed_login_attempts: 0
+      logged_in: false
+      name: Gurminder
+      password: $2b$12$1iGoQYSLc2XfGGb/ipJuSOeeO6FqkwewNzESjvvYTmWJaztqm1Gwm
+    hi:
+      email: hello12@gmail.com
+      failed_login_attempts: 0
+      logged_in: true
+      name: hello
+      password: $2b$12$dQ6lvcDP6JMYifhfVxCK4OY/XchXFfqJhG8.03bYdPaDek6ZFBHWW
+    jsmith:
+      email: jsmith@gmail.com
+      failed_login_attempts: 0
+      logged_in: false
+      name: John Smith
+      password: $2b$12$pkBZODmBN/TsirSicCb1teFs6ERLn/mIdUY.UBTSvw5Y2xQEb492S
+    ok:
+      email: okay12@gmail.com
+      failed_login_attempts: 0
+      logged_in: false
+      name: okay
+      password: $2b$12$q6.FycGA3hQRRSNM5wktQ.tdzJSBYWP1vNrA2hd6AuKd/ODbv8T8W
+    rbriggs:
+      email: rbriggs@gmail.com
+      failed_login_attempts: 0
+      logged_in: false
+      name: Rebecca Briggs
+      password: $2b$12$zZ9B03N/S0Dd28QRXI49bOaYrrp2mAwkumw.v5PYDvBBVoEktQUHy
+    rcouper:
+      email: rcouper@gmail.com
+      failed_login_attempts: 0
+      logged_in: false
+      name: Ross Couper
+      password: $2b$12$Tir/PbHVmmnt5kgNxgOwMuxNIb2fv2pJ.q71TW8ekvbugCqkye4yu
+    sh:
+      email: shri1@gmail.com
+      failed_login_attempts: 0
+      logged_in: false
+      name: Shri
+      password: $2b$12$et6rQvyp812MGelvTrRcP.MbKWpr3x5TqcjxlPFa96YzWHWdYn95m
+    shri:
+      email: shriyaarora32@gmail.com
+      failed_login_attempts: 5
+      logged_in: false
+      name: SHRIYA
+      password: $2b$12$m/kWl0DdxQw6aUljuxo/7u4YKuv/3S6qcnCp07eAPx7n5spY996cG
+    wdewe:
+      email: wedw@ew.com
+      failed_login_attempts: 0
+      logged_in: false
+      name: dwew
+      password: $2b$12$QJBPc7PxaTTBVJ.3cl4KlOPPqYCWVfaHqkk2IsoGDExXhihKZLDgy
+pre-authorized:
+  emails:
+  - melsby@gmail.com
