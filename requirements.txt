@@ -15,4 +15,3 @@ streamlit_lottie
 plotly
 requests
 pylivecoinwatch
-dotenv
