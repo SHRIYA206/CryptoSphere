@@ -11,7 +11,7 @@
 # # #     llm = HuggingFaceHub(
 # # #         repo_id='FahriBilici/crypto-gpt-neo-1.3B',
 # # #         model_kwargs={'temperature': 0.5, 'max_length': 300},
-# # #         huggingfacehub_api_token="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"
+# # #        
 # # #     )
 
 # # #     # Text input for user prompt
